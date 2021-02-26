@@ -1,5 +1,5 @@
 # Scripts
-All Scripts transferred from Jarad to me for Adafruit
+All Jupyter Scripts 
 
 This repo contains all of Jarad's Adafruit python scripts and any docs which they generate. It's organized like this:
 
